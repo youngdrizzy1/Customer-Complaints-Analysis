@@ -65,48 +65,45 @@ Digital dominance (80%+ combined) vs. legacy (Fax/Email <2%)—streamline online
 <img width="1497" height="792" alt="Screenshot 2025-09-29 195610" src="https://github.com/user-attachments/assets/0b11d227-a7aa-4a00-a751-54163fa3fb21" />
 
 
-4. Time Trends
+#### 4. Time Trends
 
 Steady climb to 2019 peak, then decline; unresolved % halved over decade.
 Quarterly patterns: Q4 surges in Mortgages (holiday stress?).
 
-<img width="571" height="545" alt="Yearly Trend" src="path/to/trend-screenshot.png" />
-<img width="680" height="546" alt="Stacked Resolution" src="path/to/stacked-screenshot.png" />
-5. State Insights
+<img width="1498" height="791" alt="Screenshot 2025-09-29 200004" src="https://github.com/user-attachments/assets/8df76dfe-91c6-4e0f-86e0-50d625e0a904" />
+<img width="1503" height="793" alt="Screenshot 2025-09-29 200051" src="https://github.com/user-attachments/assets/fd334ece-ff97-4570-b7ba-a52fb30a8034" />
+<img width="1508" height="797" alt="Screenshot 2025-09-29 200039" src="https://github.com/user-attachments/assets/b1f06924-ca7e-48cc-94a3-7abc07a06a70" />
+<img width="1505" height="795" alt="Screenshot 2025-09-29 200027" src="https://github.com/user-attachments/assets/3860dba5-8de3-40b3-9545-607fe2796012" />
+<img width="1502" height="792" alt="Screenshot 2025-09-29 200015" src="https://github.com/user-attachments/assets/25ff9883-2891-4b49-b541-7fffca7ba05d" />
 
+#### 5. State Insights
 Top: CA (434), TX (325), FL (257), NY (241) | Lowest: WY (<10).
 Density heatmap flags urban clusters—CA's 0.6% of total but 5x national avg per capita.
 
-Failed to load imageView link
-6. Granular Details
+<img width="1301" height="715" alt="Screenshot 2025-09-29 200304" src="https://github.com/user-attachments/assets/5a85abdc-29bf-4801-b034-d4d325eca311" />
 
+#### 6. Granular Details
 Top Issues: "Billing Disputes" (Cards, 18K), "Account Management" (Accounts, 12K).
 Disputed Cases: 15% overall (10,865), highest in Mortgages (22%).
 
 ### Recommendations
-Drawing from the insights:
-- Optimize for peaks: Surge pricing during 5-6 PM Fridays; allocate more drivers to Penn Station.
-- Promote underperformers: Incentives for Green vehicles in eco-conscious areas like Upper East Side.
-- Enhance efficiency: Analyze long trips for route optimizations; test dynamic pricing based on day/night splits.
-- Expand data: Integrate weather or event data to explain fluctuations—could boost predictive accuracy.
-- User-focused: Add mobile optimization to the dashboard for on-the-go stakeholder access.
+From the patterns:
+- Prioritize Cards: Automate billing resolutions to cut 20% of volume.
+- Go Digital: Invest in Web/Referral tools—could reduce Phone backlog by 50%.
+- Regional Focus: Tailor state campaigns (e.g., CA mortgage workshops).
+- Trend Monitoring: Add alerts for >10% YoY spikes; integrate sentiment analysis.
+- Data Expansion: Blend with response times for full lifecycle views.
 
 ### Strategic Goals
-- Equip Uber-like ops with tools to increase revenue by 10-15% through better demand forecasting.
-- Improve rider/driver experiences by reducing wait times in hotspots.
-- Build a scalable template for similar analyses (e.g., Lyft data or multi-city expansions).
-- Encourage data-driven culture in mobility, fostering collaborations with urban planners or insurers.
+- Reduce complaint volume 15-25% via proactive fixes, lifting CSAT scores.
+- Enable faster decisions: Dashboard cuts analysis time from days to minutes.
+- Scale for sectors: Adapt for retail/healthcare complaints.
+- Foster CX culture: Train teams on geo-trends for localized service.
 
 ### Dashboard
-The Power BI dashboard is fully interactive with slicers, drill-throughs, and dynamic elements. Screenshots below; PBIX file available in the repo for exploration.
 - ####  Overview Analysis:
-![Dashboard_Overview](https://github.com/user-attachments/assets/7b1ec097-6d85-4d23-8c4b-1f8ea35acc62)
-
-- #### Time Analysis:
-<img width="1443" height="809" alt="Screenshot 2025-09-13 110330" src="https://github.com/user-attachments/assets/cd65f329-9095-47ff-92ae-a49df165ee0a" />
-
-- #### Details Analysis:
-<img width="1427" height="803" alt="Screenshot 2025-09-13 110342" src="https://github.com/user-attachments/assets/6d3f09f5-7e5f-4589-840c-b6982c3fecb4" />
+<img width="1486" height="841" alt="Screenshot 2025-09-29 200457" src="https://github.com/user-attachments/assets/20a51196-93ae-47ca-98c1-6c0c62cabf19" />
+<img width="1489" height="841" alt="Screenshot 2025-09-29 200509" src="https://github.com/user-attachments/assets/5e7a59c3-9be3-44f9-9326-988173f67289" />
 
 ## Connect with Me 👋
 [LinkedIn](https://www.linkedin.com/in/eromosele-itoya/) | 
