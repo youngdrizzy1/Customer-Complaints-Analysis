@@ -58,7 +58,13 @@ Lending underperforms at 4.16% but shows volatility—early warning for policy t
 Referrals: 42.9% (31,049) | Web: 37.8% (27,379) | Phone: 14.7% (10,647).
 Digital dominance (80%+ combined) vs. legacy (Fax/Email <2%)—streamline online portals?
 
-<img width="632" height="294" alt="Channels" src="path/to/channels-screenshot.png" />
+<img width="1503" height="784" alt="Screenshot 2025-09-29 195600" src="https://github.com/user-attachments/assets/12566b11-108a-434e-8258-575bf0fd2344" />
+<img width="1503" height="786" alt="Screenshot 2025-09-29 195545" src="https://github.com/user-attachments/assets/420170e5-5b9a-4515-8122-e0fe04c2e72b" />
+<img width="1502" height="790" alt="Screenshot 2025-09-29 195635" src="https://github.com/user-attachments/assets/dd66803d-6549-4cd6-a3de-b8ff9d0849ec" />
+<img width="1505" height="790" alt="Screenshot 2025-09-29 195622" src="https://github.com/user-attachments/assets/617ac76d-eeac-4f90-9a29-85300e83be0a" />
+<img width="1497" height="792" alt="Screenshot 2025-09-29 195610" src="https://github.com/user-attachments/assets/0b11d227-a7aa-4a00-a751-54163fa3fb21" />
+
+
 4. Time Trends
 
 Steady climb to 2019 peak, then decline; unresolved % halved over decade.
