@@ -54,7 +54,7 @@ Lending underperforms at 4.16% but shows volatility—early warning for policy t
 
 <img width="1451" height="204" alt="Screenshot 2025-09-29 193500" src="https://github.com/user-attachments/assets/7d4de6c9-53ae-4178-9a4d-f6fd2e8f00cd" />
 
-3. Request Channels
+#### 3. Request Channels
 Referrals: 42.9% (31,049) | Web: 37.8% (27,379) | Phone: 14.7% (10,647).
 Digital dominance (80%+ combined) vs. legacy (Fax/Email <2%)—streamline online portals?
 
